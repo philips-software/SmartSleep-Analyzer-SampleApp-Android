@@ -1,0 +1,36 @@
+<resources>
+    <!-- Strings related to main -->
+    <string name="app_name">SmartSleep  Analyzer</string>
+    <string name="txt_welcome">Welcome!</string>
+    <string name="txt_welcome3">This sample app calculator measures your Body Mass Index (BMI) by asking for inputs of your weight (kg) and height (cm).</string>
+    <string name="txt_welcome4">For additional information, please see the Android sample application tutorial.</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_clientId">Client Id</string>
+    <string name="prompt_client_secret">Client Secret</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_client_secret">This client secret is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_login">Please enter valid credentials</string>
+    <!-- Strings related to BMI -->
+    <string name="title_activity_calculate_bmi">Calculate Body Mass Index</string>
+    <string name="bmi_disclaimer">*This BMI calculator is intended for informational purposes only,
+        and should not be interpreted as specific medical advice. A qualified health care provider
+        should be consulted before making decisions about therapies and/or health conditions.
+    </string>
+    <string name="btn_bmi">Get Your BMI</string>
+    <string name="btn_start">Start</string>
+    <string name="hint_decimal_placeholder">OVERWRITE THIS DYNAMICALLY</string>
+    <string name="units_note">**NOTE- input weight in kg and height in cm.</string>
+
+    <!-- Strings related to Passing data from one activity to other -->
+    <string name="accessToken">accessToken</string>
+    <string name="clientId">clientId</string>
+    <string name="clientSecret">clientSecret</string>
+    <string name="token_expired">Access token regenerated, please try again</string>
+    <string name="err_token_expired">Access Token expired</string>
+    <string name="generic_error">Something went wrong please try again.</string>
+    <string name="accessTokenexpired">accessTokenexpired</string>
+
+</resources>
